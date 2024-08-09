@@ -1,0 +1,44 @@
+.container {
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+	background-color: #f0f0f0;
+	padding: 20px;
+	text-align: center;
+}
+
+.about {
+	padding: 20px;
+}
+
+.experience,
+.skills,
+.projects {
+	padding: 20px;
+}
+
+.experience ul,
+.skills ul,
+.projects ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.experience li,
+.skills li,
+.projects li {
+	margin-bottom: 20px;
+	padding: 20px;
+	border-bottom: 1px solid #ccc;
+}
+
+.contact {
+	background-color: #f0f0f0;
+	padding: 20px;
+	text-align: center;
+}
+
